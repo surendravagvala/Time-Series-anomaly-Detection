@@ -5,6 +5,11 @@
 1. Flag data points as anomalies when the deviate percentage is more than the threshold
 1. Use these data points to fetch the required summary information.
 
+# Requirements:
+* Scala 2.12.7
+* Spark 2.4.0 
+* SBT
+
 # Execution
 1. Code in Scala
 1. Build the project dependencies using SBT
