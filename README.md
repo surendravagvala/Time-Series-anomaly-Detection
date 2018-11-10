@@ -1,4 +1,4 @@
-# Time Series anomaly Detection
+# Time Series Anomaly Detection
 # Algorithm
 1. Calculate moving averages over sliding window
 1. Use these values to find the percentage deviation
